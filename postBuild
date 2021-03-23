@@ -14,14 +14,14 @@ git clone -b '7.8.4' --single-branch --depth 1 https://github.com/OSGeo/grass.gi
 cd grass
 ./configure \
     --enable-largefile=yes \
-#    --with-nls \
-#    --with-cxx \
-#    --with-readline \
-#    --with-bzlib \
-#    --with-pthread \
-#    --with-proj-share=/usr/share/proj \
-#    --with-geos=/usr/bin/geos-config \
-#    --with-cairo \
+    --with-nls \
+    --with-cxx \
+    --with-readline \
+    --with-bzlib \
+    --with-pthread \
+    --with-proj-share=/usr/share/proj \
+    --with-geos=/usr/bin/geos-config \
+    --with-cairo \
     --with-opengl-libs=/usr/include/GL \
     --with-freetype=yes --with-freetype-includes="/usr/include/freetype2/" \
     --with-sqlite=yes
