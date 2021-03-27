@@ -1,6 +1,6 @@
 # Zonal statistics of solar time series in GRASS GIS with Python
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wenzeslaus/grass-zonal-of-solar/master?filepath=zonal-of-watersheds.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chaedri/grass-zonal-of-solar/master?filepath=zonal-of-watersheds.ipynb)
 
 Jupyter Notebook for trying GRASS GIS in *Binder*.
 
