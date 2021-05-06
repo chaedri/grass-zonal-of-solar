@@ -1,4 +1,4 @@
-# Zonal statistics of solar time series in GRASS GIS with Python
+# Zonal statistics of watersheds in GRASS GIS with Python
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chaedri/grass-zonal-of-watersheds/master?filepath=notebook.ipynb)
 
